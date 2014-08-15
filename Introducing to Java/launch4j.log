@@ -1,0 +1,23 @@
+
+
+Version:	3.4
+CmdLine:	C:\Users\Alex\Desktop\Private\SoftUni\workspace\Intro-Java-Homework\SortArrayOfStrings.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\Alex\Desktop\Private\SoftUni\workspace\Intro-Java-Homework\.
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	D:\Java\jre\bin\javaw.exe (OK)
+Match:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_20
+Check launcher:	D:\Java\jre\bin\javaw.exe (OK)
+Match:		1.8.0_20
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_20
+Ignore:		1.8.0_20
+Runtime used:	1.8.0_20 (64-bit)
+Launcher:	D:\Java\jre\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Alex\Desktop\Private\SoftUni\workspace\Intro-Java-Homework\SortArrayOfStrings.exe"
+Args length:	97/32768 chars
+Exit code:	0

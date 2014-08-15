@@ -1,0 +1,4 @@
+1. Open Command Window here(in the directory of the file)
+2. set path=%path%;D:\Java\bin
+3. javac SumTwoNumbers.java
+4. java SumTwoNumbers
